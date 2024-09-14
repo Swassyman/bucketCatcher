@@ -3,7 +3,9 @@
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
 This project was generated with a template including simple application launchers and an empty `ApplicationListener` implementation.
-
+## Quick Screenshot
+![Screenshot from 2024-09-14 20-37-55](https://github.com/user-attachments/assets/a249383d-dace-4ac1-8d68-d8f69c1bb95d)
+<hr>
 ## Platforms
 
 - `core`: Main module with the application logic shared by all platforms.
@@ -12,8 +14,6 @@ This project was generated with a template including simple application launcher
 ## Gradle
 
 This project uses [Gradle](https://gradle.org/) to manage dependencies.
-
-![Screenshot from 2024-09-14 20-37-55](https://github.com/user-attachments/assets/a249383d-dace-4ac1-8d68-d8f69c1bb95d)
 
 The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
 Useful Gradle tasks and flags:
